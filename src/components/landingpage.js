@@ -10,12 +10,8 @@ class Landing extends Component {
 				<div style={{width: '100%', margin: 'auto'}}>
 				<Grid>
 					<Cell col={12}></Cell>
-
 				</Grid>
-
-
 			</div>
-
 			</div>
 		)
 	}
